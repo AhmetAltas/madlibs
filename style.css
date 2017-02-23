@@ -1,0 +1,90 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+body {
+	background : #383737;
+}
+
+.title {
+	color: white;
+	text-shadow: 4px 4px black;
+	font-size: 60px;
+	font-family: ravie;
+	margin-left: 20%;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #af1111;
+}
+
+
+li a {
+	display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: tahoma;
+    list-style-type: none;
+}
+
+
+.menu{
+margin-left: 20%;
+margin-right:20%;
+background-color: white;
+font-family: tahoma;
+}
+
+
+.footer {
+	text-align: center;
+	margin-top: 10%;
+	background-color: #555243;
+	color: white;
+	font-family: tahoma;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.paniek {
+	margin-top: 3%;
+	margin-left: 5%;
+}
+
+.vraag {
+	margin-left: 5%;
+	margin-top: 2%;
+}
+
+#inp1,#inp2,#inp3,#inp4,#inp5,#inp6,#inp7,#inp8 {
+	float: right;
+	margin-right: 35%;
+}
+
+#submit {
+	float: right;
+    margin-right: 43%;
+    margin-top: 5%;
+}
+
+div.tekst {
+	padding-top: 20px;
+	padding-left: 5px;
+	padding-right: 15px;
+	padding-bottom: 40px;
+	margin-right: 25px;
+
+	margin-left: 5%;
+}
